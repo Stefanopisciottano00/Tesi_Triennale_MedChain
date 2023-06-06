@@ -11,3 +11,13 @@ Inoltre, la blockchain offre una trasparenza totale, poiché tutti i partecipant
 In sintesi, la blockchain è una tecnologia rivoluzionaria che offre un registro condiviso, sicuro e immutabile per le transazioni e i dati. Attraverso la decentralizzazione e il consenso della rete, elimina la necessità di intermediari centrali e aumenta la sicurezza, l'efficienza e la trasparenza in diversi settori.
 
 ![Blockchain](blockchain.jpg)
+
+Con questo lavoro di tesi si propone l’analisi, la progettazione e la realizzazione di un sistema in grado di assicurare la corretta
+gestione dei dati attraverso l’integrazione, l’affidabilità e la sicurezza che caratterizzano la
+blockchain. Viene implementata una blockchain per il salvataggio
+dei dati dei pazienti, alla quale questi possono accedere liberamente e in qualunque momento,
+assumendo così pieno controllo dei propri referti. Con questa ricerca si vuole mostrare una soluzione
+permissioned basata su Hyperledger Fabric, in cui i pazienti sono al centro del sistema e sono
+consapevoli della gestione delle informazioni. La tesi mostra il potenziale dell’applicazione
+della blockchain nell’ambito sanitario e come può essere utile per la condivisione dei dati in
+maniera attendibile.
