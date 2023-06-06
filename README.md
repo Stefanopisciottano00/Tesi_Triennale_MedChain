@@ -10,4 +10,4 @@ Inoltre, la blockchain offre una trasparenza totale, poiché tutti i partecipant
 
 In sintesi, la blockchain è una tecnologia rivoluzionaria che offre un registro condiviso, sicuro e immutabile per le transazioni e i dati. Attraverso la decentralizzazione e il consenso della rete, elimina la necessità di intermediari centrali e aumenta la sicurezza, l'efficienza e la trasparenza in diversi settori.
 
-![Blockchain](https://unsplash.com/it/foto/R2HtYWs5-QA)
+![Blockchain](blockchain.jpg)
